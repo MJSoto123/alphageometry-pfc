@@ -58,3 +58,4 @@ translated_imo_2021_p3
 a b c = triangle; d = angle_bisector b a c; e = on_aline d a d c b, on_line a c; f = on_aline d a d b c, on_line a b; x = on_bline b c, on_line a c; o1 = circle a d c; o2 = circle e x d; y = on_line e f, on_line b c ? coll o1 o2 y
 translated_imo_2022_p4
 b c = segment; d = free; e = eqdistance d b c; t = on_bline b d, on_bline c e; a = eqangle2 b t e; p = on_line a b, on_line c d; q = on_line a b, on_line c t; r = on_line a e, on_line c d; s = on_line a e, on_line d t ? cyclic p q r s
+

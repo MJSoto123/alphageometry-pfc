@@ -460,3 +460,4 @@ examples/complete2/unsolved2/complete_010_Other_Auxiliary_ye_aux_think.gex
 c a b = iso_triangle c a b; d e f = 3peq d e f c a b ? cong d a b e
 examples/complete2/unsolved/morley.gex
 a b c = triangle a b c; d e = trisect d e b a c; f g = trisect f g c b a; h i = trisect h i a c b; j = intersection_ll j b f c i; k = intersection_ll k a e c h; l = intersection_ll l a d b g ? cong j l j k
+

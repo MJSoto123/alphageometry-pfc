@@ -372,3 +372,4 @@ def shorten_proof(
     expanded.add(con.hashed())
 
   return log2, con2prem
+
