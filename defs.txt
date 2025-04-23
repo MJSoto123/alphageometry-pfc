@@ -10,7 +10,6 @@ a b c = ncoll a b c
 x : eqangle b a b c b c b x
 amirror a b c
 
-
 circle x a b c
 x : a b c
 a b c = ncoll a b c

@@ -525,4 +525,3 @@ class TransformerLayerGenerate(transformer_layer.TransformerLayer):
         "recurrent_kvq": recurrent_kvq,
     }
     return DecoderState(decoder_state_dict)
-
